@@ -1,0 +1,21 @@
+OpenMuni  Copyright (C) 2017  Jordan McCollum
+
+Goal:
+To create an web-based, database-driven, open-sourced Municipal Management solution.
+
+Requirements:
+Open-source based software that is commonly available in all Linux repositories (i.e. Apache, MariaDB, etc)
+
+Currently licensed under GPLv3 until further notice (subject to change before project is available).
+
+DONE:
+Create project repo
+
+ToDo:
+Database Design
+Website architecture/language
+Website general design
+Installation script?
+Administration Forms (i.e. general "universal" configurations, variables, etc)
+End-user forms
+"User Designed" forms/reports capabilities?
